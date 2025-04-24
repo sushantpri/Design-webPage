@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HashedBit Assignment Page</title>
+    <title>HashedBit Assignment</title>
     <style>
         * {
             margin: 0;
